@@ -27,3 +27,14 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML and CSS.
 #### Gold
 
 - As a user, I want to be able to upload my own image as my token so that I can customize the game. 
+
+### Wireframes
+
+![Main tic tac toe page](assets/tic-tac-toe-main.png)
+
+
+<!-- Useful info -->
+<!-- This is a link to [Google](https://google.com). -->
+<!-- ![Tic tac toe about modal](assets/wireframe-about.png)
+
+<img src="assets/wireframe-about.png" alt="Tic tac toe about modal" width="100px" /> -->
